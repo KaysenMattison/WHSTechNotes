@@ -16,8 +16,15 @@ The phrase "67" is a viral, nonsensical meme, often spoken playfully to signal s
 # October 6, 2025
 If i were to be incharge of a school, my AI policy wouldnt be strict at all, because AI is a thing people use every day to solve their problems, the world has adapted to the modern times but yet the schools still stick to the same ways of teaching for years even with all the advancement in technology. So if i was to be the person who determines what is allowed in school i would say that students are able to use AI to assist them in their studies just as adults would use it in their every day life.
 
-# October 15, 2025
-I dont understand the entry
+# October 14, 2025
+Part 1
+Topic: The Solar System
+Audience: 5th Grade Students
+Design Type: Interactive Slide Deck
+Prompt for Canva:
+"Create an interactive slide deck that teaches 5th graders about the Solar System. Include slides for each planet with fun facts, colorful illustrations, and simple explanations. Add animations to show the planets orbiting the sun and include a short quiz at the end to test what students learned. Use a bright, playful color palette with space-themed backgrounds, cartoon-style planets, and easy-to-read text. The tone should be educational but fun, encouraging curiosity about space and science."
+Part 2
+The prompt was designed to create an engaging and educational slide deck that helps 5th graders learn about the Solar System in a fun, interactive way. Canva AI understood the request well and generated slides with colorful visuals, clear text, and animations that matched the theme. The layout and design were visually appealing, and the quiz feature added an interactive element that supported learning. However, some of the planet facts were too advanced for the target age group, and the animations could have been smoother. To improve the prompt, more specific instructions about reading level and animation style could be added. Being skilled at prompt engineering is valuable because it helps communicate ideas clearly to AI tools, leading to better, more accurate results in creative, educational, and professional projects.
 
 # October 20, 2025
 | NAME        | CLASS  | SEAT
