@@ -1,6 +1,5 @@
 # September 2, 2025
-I belive that the new law that prevents usage of cellular devices in school is unsafe, and that it is a bad look on the state for enforcing it. People need their phones for possible translation and language assistance, and incase of emergencys phones are needed to contact guardians about
-problems that could be occuring in the school.
+I belive that the new law that prevents usage of cellular devices in school is unsafe, and that it is a bad look on the state for enforcing it. People need their phones for possible translation and language assistance, and incase of emergencys phones are needed to contact guardians about problems that could be occuring in the school.
 
 # September 8, 2025
 I am interested in Architectual Engineering, computer science could be helpful in calculating equations and helping determine if the structure I would create is functional and will withstand different enviornments.
@@ -16,6 +15,9 @@ The phrase "67" is a viral, nonsensical meme, often spoken playfully to signal s
 
 # October 6, 2025
 If i were to be incharge of a school, my AI policy wouldnt be strict at all, because AI is a thing people use every day to solve their problems, the world has adapted to the modern times but yet the schools still stick to the same ways of teaching for years even with all the advancement in technology. So if i was to be the person who determines what is allowed in school i would say that students are able to use AI to assist them in their studies just as adults would use it in their every day life.
+
+# October 15, 2025
+I dont understand the entry
 
 # October 20, 2025
 | NAME        | CLASS  | SEAT
