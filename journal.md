@@ -16,3 +16,10 @@ The phrase "67" is a viral, nonsensical meme, often spoken playfully to signal s
 
 # October 6, 2025
 If i were to be incharge of a school, my AI policy wouldnt be strict at all, because AI is a thing people use every day to solve their problems, the world has adapted to the modern times but yet the schools still stick to the same ways of teaching for years even with all the advancement in technology. So if i was to be the person who determines what is allowed in school i would say that students are able to use AI to assist them in their studies just as adults would use it in their every day life.
+
+# October 15, 2025
+| NAME        | CLASS  | SEAT
+| ----------- | -------| ----
+| Franklin    | Second | 91A
+| Hardeep     | Third  | 61F
+| Marla       | First  | 35B
