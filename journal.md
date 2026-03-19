@@ -28,3 +28,12 @@ The prompt was designed to create an engaging and educational slide deck that he
 | Franklin    | Second | 91A
 | Hardeep     | Third  | 61F
 | Marla       | First  | 35B
+
+# January 6, 2026
+During the winter break i didnt really do much other than just relax inside and play videogames. I was too lazy to do anything and just appreciated my short break as long as I could. I used technology during break to entertain myself through gaming and streaming movies online to keep busy and pass time.
+
+# January 12, 2026
+Autcraft was created to provide a safe and welcoming online space for autistic children and their families, addressing the bullying, harassment, and exclusion that often occur in unmoderated online games. Safe spaces are needed on the internet because, without rules or moderation, users can experience emotional harm, harassement, and social exclusion which can be especially damaging for vulnerable communities. Autcraft uses clear rules, active moderators and supportive community culture to protect platers and make them feel comfortable being themselves. Developers have a responsibility to design and maintain these spaces because relying on users alone to enforce safety is often ineffective and can leave people at risk. Features like reporting systems, moderations tools, and ocmunity guidelines directly affect how safe and enjoyable an online space feels. If developers ignore safety and inclusion, users may face harassment, leave thhe platform, or feel unsafe participating. Other examples of inclusive online spaces include Roblox's moderated servers for kids and Discord servers with strict anti-bullying rules.
+
+# January 20, 2026
+One way technology can help create fairness is by allopwing people to share their voices online and bring attention to injustice. This matters because when more people are aware of iunfair situations, it becomes harder to ignore them. For example, social media has helped spread information about protests and unfair treatment so others can support the cause. An example of this could be students using online platforms to report bullying or unfair rules at school. Martin Luther King Jr. believed people must take action, and technology gives more people the ability to do that. This helps people be treated more fairly because problems are seen and adressed faster. Overall, technology can make society more just by giving everyone a voice.
